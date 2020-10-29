@@ -12,7 +12,8 @@ class TryingLifecycle extends React.Component {
     render() {
         // Make sure to return some HTML in the render method.
         console.log('I am inside of the render');
-        return <h1>Hello from TryingLifecycle.</h1>
+        // return <h1>Hello from TryingLifecycle.</h1>
+        return <h1>Hello World</h1>
     }
 }
 
